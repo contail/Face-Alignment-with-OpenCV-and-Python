@@ -2,12 +2,12 @@
 
 ref : https://www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/
 
-#Requirements
+# Requirements
 pip install imutils
 pip install dlib
 pip install opencv-python
 
-#How to use?
+# How to use?
 
 python align_faces.py -r "your origin image data dir"  -d "your dest dir"
 
